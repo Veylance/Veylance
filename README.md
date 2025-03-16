@@ -7,7 +7,8 @@
 Striving to become a ***comb-shaped software engineer*** with specialties in Drones, AI/ML, Web Development, and Game Development.
 
 ## Connect with me:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://facebook.com/GinoongR0KI) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ginoongr0ki/)
+<!-- [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://facebook.com/GinoongR0KI) -->
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ginoongr0ki/)
 
 ## Dev Tools:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,bootstrap,mysql,php,codeigniter,cs,gamemakerstudio)
